@@ -7,11 +7,9 @@ Loaded net.sf.robocode.repository
 Loaded net.sf.robocode.sound
 Loaded net.sf.robocode.ui
 Loaded net.sf.robocode.ui.editor
-No robocode.properties. Using defaults.
-No robocode.properties. Using defaults.
+Initializing version check date.
 Reading robot database
 Preparing battle...
-Each robot will be allowed a maximum of 4556595 nanoseconds per turn on this system.
 ----------------------
 Round 1 initializing..
 Let the games begin!
