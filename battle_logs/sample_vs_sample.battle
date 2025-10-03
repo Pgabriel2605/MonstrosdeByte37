@@ -4,4 +4,4 @@ robocode.battle.numRounds=3
 robocode.battle.gunCoolingRate=0.1
 robocode.battle.rules.inactivityTime=450
 robocode.battle.hideEnemyNames=false
-robocode.battle.robots=github.Corners,github.PrimeiroRobo
+robocode.battle.robots=github.Corners,github.Astroboys
